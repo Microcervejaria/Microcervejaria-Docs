@@ -1,10 +1,10 @@
-# Planejamento da Sprint 0
+# Planejamento da Sprint 1
 
 **Data de Início:** 04/09/19
 
 **Data de Término:** 09/09/19
 
-**Total de Pontos Planejados:** _27*_
+**Total de Pontos Planejados:** _*27*_
 
 ## Introdução
 <p align = "justify"> Esta primeira sprint foi mais curta e teve como objetivo dar inicio nos documentos iniciais do projeto assim como adaptar a metodologia utilizada
@@ -12,7 +12,7 @@
 
 
 ## Histórias Alocadas para a Sprint
- 
+
 | História | É Dívida Técnica? |
 | -------- | :----: |
 | DOC01 - Documento de Visão | :x: |
@@ -48,5 +48,5 @@
 * **Pontuação:** 2
 
 ### AMB01 - Configurar Github Pages
-* **Responsáveis:** Todos
+* **Responsáveis:** Vinícius Cantuária
 * **Pontuação:** 3
