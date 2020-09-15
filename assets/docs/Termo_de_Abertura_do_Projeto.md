@@ -108,7 +108,7 @@ O escopo do projeto está delimitado com o período do semestre letivo.
 ### Equipe de Engenharia de Energia
 | Nome | Matrícula | E-mail |
 | --- | --- | --- |
-| Isabela Rocha Macedo | 140090827 |  |
+| Isabela Rocha Macedo | 140090827 | isarmacedoo@gmail.com |
 | Vanessa Alvim Alves | 130136158 | vanessa.alvimalves@gmail.com |
 
 ### Professores
