@@ -100,9 +100,9 @@ O escopo do projeto está delimitado com o período do semestre letivo.
 ### Equipe de Engenharia Eletrônica |
 | Nome | Matrícula | E-mail |
 | --- | --- | --- |
-| Renato |  |  |
+| Renato da Costa Mota Júnior | 090130723 | renato.motta.jr@gmail.com |
 | Victor Hugo Bezerra Tavares | 130136492 | victorhugo.tavares@hotmail.com |
-| Yago Randerson Barbosa Ferreira | 120138646 |  |
+| Yago Randerson Barbosa Ferreira | 120138646 | yagorandersonf@gmail.com |
 
 
 ### Equipe de Engenharia de Energia
