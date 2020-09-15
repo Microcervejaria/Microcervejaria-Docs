@@ -76,7 +76,7 @@ Esta comunicação diz respeito ao coordenador geral, diretor de qualidade, dire
     <td>Todos os integrantes do projeto</td>
     <td>Sexta</td>
     <td><p>14:00-18:00</p></td>
-    <td><p>Presencial,</p><p>exceto Quarta</p></td>
+    <td>Remoto</td>
   </tr>
 </table>
 
