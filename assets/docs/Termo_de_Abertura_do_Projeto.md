@@ -120,5 +120,7 @@ O escopo do projeto está delimitado com o período do semestre letivo.
 | Ricardo Matos Chaim | Software |
 | Paolo Gessini | Aeroespacial |
 
+### Mestres cervejeiros amadores
+
 ## 12. Referências
 EasyBok. TAP - Termo de Abertura do Projeto - EasyHome, 2016. Downloads. Disponível em: <http://www.easybok.com.br/downloads/easyhome-tap/>. Acesso em: 8 de set. de 2020.
