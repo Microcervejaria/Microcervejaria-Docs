@@ -20,12 +20,12 @@ O padrão adotado no código deverá seguir a folha de estilo do [Airbnb](https:
 Os commits deverão ser atômicos. Para isso, ele deverá conter uma única alteração, seguindo o padrão de folha de estilo, e com uma descrição significativa em português. Utilizando os verbos no Indicativo para expressar a ação que foi feita. Ex: **Adiciona tela de inicio**.
 
 ### 3.3. Política de Branches
-As branches serão criadas com base no modelo estabelecido pelo [Gitflow](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04).
-A **master** é a branch principal do projeto. Ela conterá todas as funcionalidades estáveis e homologadas.
-A **develop** é a branch de desenvolvimento. Todas as branches (**bug**, **hotfix**, **user story** ou **task**) deverão ser criadas a partir dela e quando finalizadas, mescladas (merged) nela a partir do Pull Request.
-A **release** é a branch que será usada para homologar novas funcionalidades. Após aprovação, será mesclada na master. Ex.: release/0.1.0
-A **hotfix** é a branch que será usada quando tiver um erro crítico na **master**, branch de produção. Ex.: hotfix/bug-alteracao-senha
-As branches para as **features** deverão ser criadas a partir da **develop** e deverão ser nomeadas com a numeração e nome da História de Usuário a ser desenvolvida. Ex.: feature/us10-perfil-usuario
+As branches serão criadas com base no modelo estabelecido pelo [Gitflow](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04).  
+A **master** é a branch principal do projeto. Ela conterá todas as funcionalidades estáveis e homologadas.  
+A **develop** é a branch de desenvolvimento. Todas as branches (**bug**, **hotfix**, **user story** ou **task**) deverão ser criadas a partir dela e quando finalizadas, mescladas (merged) nela a partir do Pull Request.  
+A **release** é a branch que será usada para homologar novas funcionalidades. Após aprovação, será mesclada na master. Ex.: release/0.1.0.  
+A **hotfix** é a branch que será usada quando tiver um erro crítico na **master**, branch de produção. Ex.: hotfix/bug-alteracao-senha.  
+As branches para as **features** deverão ser criadas a partir da **develop** e deverão ser nomeadas com a numeração e nome da História de Usuário a ser desenvolvida. Ex.: feature/us10-perfil-usuario.  
 
 ![](../images/gitflow.png)
 
