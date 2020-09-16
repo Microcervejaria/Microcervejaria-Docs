@@ -8,7 +8,7 @@ Este documento tem como propósito descrever os padrões de desenvolvimento e fe
 | --- | --- |
 | [Git](https://git-scm.com/) | Ferramenta utilizada para o controle e versionamento do código. |
 | [GitHub](https://github.com/) | Plataforma onde será hospedado o repositório do código da aplicação. |
-| [Travis CI](https://travis-ci.org/) | Serviço de integração contínua hospedado, usado para criar e testar projetos de software hospedados no GitHub e Bitbucket. |
+| [GitHub Actions](https://docs.github.com/pt/actions) | Serviço de integração contínua usado para criar e testar projetos de software hospedados no GitHub. |
 | [ESLint](https://eslint.org/) | Ferramenta para analisar estaticamente o código para encontrar problemas rapidamente. |
 | [Code Climate](https://codeclimate.com/) | Ferramenta para analisar estaticamente a qualidade do código. |
 
