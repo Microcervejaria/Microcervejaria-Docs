@@ -7,6 +7,7 @@
   - [Plano de Gerenciamento de Risco](assets/docs/Plano_de_Gerenciamento_de_Riscos.md)
   - [Plano de Gerenciamento de Custo](assets/docs/Plano_de_Gerenciamento_de_Custos.md)
   - [Documento de Visão](assets/docs/Documento_de_visao.md)
+  - [Requisitos não funcionais](assets/docs/Requisitos_nao_funcionais.md)
 - Sprints
   - Sprint 1
     - [Planejamento](sprints/sprint1/planejamento)

@@ -360,7 +360,7 @@ Um dos critérios para que se atinja uma cerveja com uma boa qualidade é que os
  ### 5.6 Receber notificações
  Por não ser um processo 100% automatizado, o usuário irá precisar interagir com sistema algumas horas, tendo que adicionar ingredientes em tempos específicos e para não ficar na responsabilidade da memória de lembrar notificações serão geradas para usuário para esta finalidade. Ou até mesmo notificações de mudanças de etapas. Ou quando necessário notificações para que usuário retire algo( durante processo de limpeza).
 
- ## Restrições
+ ## 6.Restrições
  ### 6.1 Restrições de Sistema
 A Aplicação se comunicará com a microcontroladores através de rede onde tanto o microcontrolador quanto ao aplicativo precisam estar conectados. Apenas usuários que tiverem chaves de acesso daquele microprocessador que conseguirá ter acesso de controle e de notificações.
 
