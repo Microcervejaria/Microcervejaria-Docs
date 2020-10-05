@@ -9,6 +9,7 @@
   - [Documento de Visão](assets/docs/Documento_de_visao.md)
   - [Requisitos não funcionais](assets/docs/Requisitos_nao_funcionais.md)
   - [Arquitetura da Informação](assets/docs/Arquitetura_informacao.md)
+  - [Especificação dos Casos de Teste](assets/docs/Especificação_dos_Casos_de_Teste.md)
 - Sprints
   - Sprint 1
     - [Planejamento](sprints/sprint1/planejamento)
