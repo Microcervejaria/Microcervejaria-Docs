@@ -10,9 +10,7 @@
   - [Requisitos não funcionais](assets/docs/Requisitos_nao_funcionais.md)
   - [Arquitetura da Informação](assets/docs/Arquitetura_informacao.md)
   - [Especificação dos Casos de Teste](assets/docs/Especificação_dos_Casos_de_Teste.md)
-  - [Diagrama de Casos de Uso](assets/docs/Diagrama_de_Caso_de_Uso.md)
-  - [Diagrama de Classes](assets/docs/Diagrama_de_Classe.md)
-  - [Diagrama de Pacotes](assets/docs/diagrama_de_estrutura.md)
+  - [Diagramas](assets/docs/Diagramas.md)
 
 - Sprints
   - Sprint 1
