@@ -29,12 +29,9 @@ fala em palavras, sons e ideias.
 1. Passo: O usuário manda sua pergunta ou solicitação para quaisquer dispositivo que trabalhe com a tecnologia da Alexa.
 Para analisar uma solicitação, um comando precisa possuir 3 partes principais
 
-    * Wake word : Quando os usuários dizem 'Alexa', o que desperta o dispositivo. A palavra de ativação colocou a Alexa no modo de escuta e pronta para receber instruções dos usuários.
-
-    * Invocation name : é a palavra-chave usada para acionar uma “habilidade” específica. Os usuários podem combinar o nome da invocação com uma ação, comando ou pergunta. Todas as habilidades personalizadas devem ter um nome de invocação para iniciá-las.
-
-
-    * Utterance :são frases que os usuários usarão ao fazer uma solicitação para Alexa. Alexa identifica a intenção do usuário a partir da expressão dada e responde de acordo. Então, basicamente, o enunciado decide o que o usuário deseja que Alexa execute.
+    * Wake word: Quando os usuários dizem 'Alexa', o que desperta o dispositivo. A palavra de ativação colocou a Alexa no modo de escuta e pronta para receber instruções dos usuários.
+    * Invocation name: é a palavra-chave usada para acionar uma “habilidade” específica. Os usuários podem combinar o nome da invocação com uma ação, comando ou pergunta. Todas as habilidades personalizadas devem ter um nome de invocação para iniciá-las.
+    * Utterance: são frases que os usuários usarão ao fazer uma solicitação para Alexa. Alexa identifica a intenção do usuário a partir da expressão dada e responde de acordo. Então, basicamente, o enunciado decide o que o usuário deseja que Alexa execute.
 
 
 
